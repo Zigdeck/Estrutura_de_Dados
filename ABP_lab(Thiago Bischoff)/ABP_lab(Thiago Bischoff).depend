@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620315261 source:c:\users\thiag\onedrive\documentos\codeblocks\abp_lab(thiago bischoff)\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ABP.h"
+
+1617568420 c:\users\thiag\onedrive\documentos\codeblocks\abp_lab(thiago bischoff)\abp.h
+
+1620315261 source:c:\users\thiag\onedrive\documentos\codeblocks\abp_lab(thiago bischoff)\mainabp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ABP.h"
+

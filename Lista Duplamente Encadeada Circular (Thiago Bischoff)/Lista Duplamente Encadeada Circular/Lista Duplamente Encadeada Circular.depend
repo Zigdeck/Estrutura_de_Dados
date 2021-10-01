@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615237790 source:c:\users\thiag\onedrive\documentos\codeblocks\lista simplesmente encadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1615237147 c:\users\thiag\onedrive\documentos\codeblocks\lista simplesmente encadeada\lista.h
+
+1615237147 source:c:\users\thiag\onedrive\documentos\codeblocks\lista simplesmente encadeada\lista.main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
